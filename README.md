@@ -20,3 +20,7 @@ https://github.com/git-guides/install-git
 3. After reaching the directory, you will find a python program named yourubedownloader.py. 
 4. Run the program with the command-: python3 youtubedownloader.py
 
+SOME THINGS TO REMEMBER
+1. This program may not work with every version of pytube, so install pytube from pip with this command-:  python -m pip install git+https://github.com/nficano/pytube
+2. Also, this program also needs TKINTER installed to work.
+3. 
